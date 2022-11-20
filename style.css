@@ -29,3 +29,4 @@ body {
 .btn::before {
   content: "";
   position: absolute;
+  background-color: orangered;
